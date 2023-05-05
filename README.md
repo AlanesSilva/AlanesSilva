@@ -2,9 +2,9 @@
 
 Eu sou <strong>Seu Nome</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
 
-- 🚀 Atualmente estou aprendendo: <strong> JavaScript | Phyton  | NodeJS | MongoDb</strong> 
-- 💬 Pergunte-me sobre: <strong>Seus hobbies</strong>
-- 📣 Nós podemos falar em: <strong>Seus Idiomas</strong>
+- 🚀 <strong> JavaScript | Phyton  | NodeJS | MongoDb</strong> 
+- 💬  <strong>Seus hobbies</strong>
+- 📣  <strong>Seus Idiomas</strong>
 
 <div align="center">
 
